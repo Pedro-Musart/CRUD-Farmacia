@@ -1,4 +1,4 @@
-package com.generation.farmacia.model.controller;
+package com.generation.farmacia.controller;
 
 import java.util.List;
 import java.util.Optional;
